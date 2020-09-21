@@ -12,7 +12,7 @@ The JSON file has the following structure:
 	      		"flux":[...],
 	      		"orbit":[...],
 	      		"prec":[...]
-	    	}
+	    	},
 	  	"V":
 	    	{
 	      		"JD":[...],
@@ -20,7 +20,7 @@ The JSON file has the following structure:
 	      		"orbit":[...],
 	      		"prec":[...]
 	    	}
-    	}
+    	},
   	"1.0":
     	{
 	    	"B":
@@ -29,7 +29,7 @@ The JSON file has the following structure:
 	        	"flux":[...],
 	        	"orbit":[...],
 	        	"prec":[...]
-	      	}
+	      	},
 	    	"V":
 	      	{
 	        	"JD":[...],
@@ -37,7 +37,7 @@ The JSON file has the following structure:
 	        	"orbit":[...],
 	        	"prec":[...]
 	       }
-    	}
+    	},
     ...	
 }
 ```
