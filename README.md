@@ -55,5 +55,5 @@ All the observations in each bin *n* combined in the following lists:
 
 `"orbit":[...]` is the orbital phase of the observation (0 corresponds to main minima).
 
-"prec":[...] is the superorbital 35-day phase of the observation.
+`"prec":[...]` is the superorbital 35-day phase of the observation.
 
